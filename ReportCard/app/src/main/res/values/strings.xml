@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ReportCard</string>
+    <string name="display_string">Your Grade for</string>
+</resources>
